@@ -25,4 +25,4 @@ Kujunda ja loo ise lihtne mäng.
 * 2048
 **
 
-Võimalik saada - 15 punkti
+Võimalik saada - 25 punkti
